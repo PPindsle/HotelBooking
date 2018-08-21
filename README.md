@@ -7,7 +7,9 @@ Link to maintenance site (admin/admin) and booking website (minside/minside):<br
 
 https://home.usn.no/web-prg2-2018-04/vedlikehold/<br>
 https://home.usn.no/web-prg2-2018-04/nettsted/<br>
-
+<style>
+span { font-size: 300%; }    
+</style>
 <strong>My areas of responsibility (not including CSS):</strong><br>
 <ul>
     <li>Registration of data in the four tables
@@ -15,7 +17,7 @@ https://home.usn.no/web-prg2-2018-04/nettsted/<br>
         <a href="https://home.usn.no/web-prg2-2018-04/vedlikehold/registrerRomtype.php">romtype</a>,
         <a href="https://home.usn.no/web-prg2-2018-04/vedlikehold/registrerHotellromtype.php">hotellromtype</a>
         and <a href="https://home.usn.no/web-prg2-2018-04/vedlikehold/registrerRom.php">rom</a></li>
-    <ul><span style="font-size:50%;">
+    <ul><span>
         <li>vedlikehold/registrerHotell.php</li>
         <li>vedlikehold/registrerRomtype.php</li>
         <li>vedlikehold/registrerHotellromtype.php</li>
