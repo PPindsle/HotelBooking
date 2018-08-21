@@ -1,10 +1,10 @@
 # HotelBooking
-First year, second term exam in Fundamental Programming.
-Two week assignment with a group of five people.
+First year, second term exam in Fundamental Programming.<br>
+Two week assignment with a group of five people.<br>
 
 
-Link to maintenance-site (admin/admin) and booking website:
+Link to maintenance-site (admin/admin) and booking website:<br>
 
-https://home.usn.no/web-prg2-2018-04/vedlikehold/
-https://home.usn.no/web-prg2-2018-04/nettsted/
+https://home.usn.no/web-prg2-2018-04/vedlikehold/<br>
+https://home.usn.no/web-prg2-2018-04/nettsted/<br>
 
