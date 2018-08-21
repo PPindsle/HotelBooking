@@ -15,6 +15,12 @@ https://home.usn.no/web-prg2-2018-04/nettsted/<br>
         <a href="https://home.usn.no/web-prg2-2018-04/vedlikehold/registrerRomtype.php">romtype</a>,
         <a href="https://home.usn.no/web-prg2-2018-04/vedlikehold/registrerHotellromtype.php">hotellromtype</a>
         and <a href="https://home.usn.no/web-prg2-2018-04/vedlikehold/registrerRom.php">rom</a></li>
+    <ul>
+        <li>vedlikehold/registrerHotell.php</li>
+        <li>vedlikehold/registrerRomtype.php</li>
+        <li>vedlikehold/registrerHotellromtype.php</li>
+        <li>vedlikehold/registrerRom.php</li>
+    </ul>
     <li>Deletion of data in the tables
         <a href="https://home.usn.no/web-prg2-2018-04/vedlikehold/SlettHotell.php">hotell</a>,
         <a href="https://home.usn.no/web-prg2-2018-04/vedlikehold/SlettHotellromtype.php">hotellromtype</a>
