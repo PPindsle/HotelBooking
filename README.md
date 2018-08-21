@@ -1,4 +1,4 @@
-# HotelBooking
+# Programming exam
 First year, second term exam in Fundamental Programming.<br>
 Two week assignment with a group of five people. Grade: A<br>
 
