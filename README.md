@@ -3,7 +3,7 @@ First year, second term exam in Fundamental Programming.<br>
 Two week assignment with a group of five people. Grade: A<br>
 
 
-Link to maintenance site (admin/admin) and booking website:<br>
+Link to maintenance site (admin/admin) and booking website (minside/minside):<br>
 
 https://home.usn.no/web-prg2-2018-04/vedlikehold/<br>
 https://home.usn.no/web-prg2-2018-04/nettsted/<br>
