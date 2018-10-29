@@ -31,7 +31,6 @@ function setRomtype(antallRom, romtype) {
   document.getElementById("innsjekking").value = "";
   document.getElementById("utsjekking").value = "";
 
-  //fjern teksten som viser pris - disse er ikke riktige lenger
 
   //document.getElementById("antallRom").innerHTML = "<option value=''>Velg antall rom</option><option value='1'>1</option><option value='2'>2</option><option value='3'>3</option><option value='4'>4</option><option value='5'>5</option>";
 
@@ -234,6 +233,7 @@ function visSubmit(utsjekking) {
           print("Fant ingen hoteller ved navn $hotellnavn.");
         } else {
           // SJEKK OM ALT I BESTILLINGEN ER MULIG
+	  // denne koden er bare et stort rot, men den får jobben gjort
           $muligBestilling = false;
 
           for ($x=0; $x < count($romtype); $x++) {
@@ -283,9 +283,7 @@ function visSubmit(utsjekking) {
 
                           $sqlSetning = "INSERT INTO bestilling (bestnr, brukernavn, datofra, datotil, hotellnavn, romnr) VALUES
                                                         ('$nyttBestnr','$brukernavn', '$innsjekking', '$utsjekking', '$hotellnavn', '$nyttNr');";
-                            // FUNGERER DET IKKE SOM DET SKAL?
-                            // SJEKK OM SQL-SETNINGA ER KORREKT:
-                            // print("$sqlSetning");
+                       
                           $sqlResultat = mysqli_query($db,$sqlSetning);
 
                           if ($sqlResultat) {
@@ -312,8 +310,5 @@ function visSubmit(utsjekking) {
       print("<div id='bookingGjennomført'><h2>Booking gjennomført<h2></div>");
     }
   }
-
-
-
   include("slutt.php");
 ?>
